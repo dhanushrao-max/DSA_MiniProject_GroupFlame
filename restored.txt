@@ -1,0 +1,36 @@
+Here’s a brief description of DSA in C:
+
+DSA (Data Structures and Algorithms) in C refers to learning and implementing fundamental data organization techniques and problem-solving methods using the C programming language.
+
+
+Data Structures are ways to store and organize data efficiently so it can be accessed and modified effectively.
+Examples:
+
+Arrays – fixed-size sequential storage
+Linked Lists – dynamic memory-based sequential storage
+Stacks & Queues – LIFO/FIFO data handling
+Trees – hierarchical data representation
+Graphs – network-like data representation
+Hash Tables – fast key-value lookups
+
+
+
+Algorithms are step-by-step procedures to solve problems or perform operations on data structures.
+Examples:
+
+Searching – Linear Search, Binary Search
+Sorting – Bubble Sort, Merge Sort, Quick Sort
+Graph Algorithms – BFS, DFS, Dijkstra’s Algorithm
+Dynamic Programming – Optimizing recursive problems
+
+
+
+Why learn DSA in C?
+
+C is fast and memory-efficient, making it ideal for understanding low-level operations.
+It provides pointer manipulation and manual memory management, which help in mastering how data structures work internally.
+Many competitive programming and system-level applications rely on C-based DSA concepts.
+
+
+If you want, I can prepare a DSA in C roadmap with topics in the right learning order so you can master it step-by-step.
+Do you want me to create that roadmap?
